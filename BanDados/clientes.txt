@@ -1,0 +1,7 @@
+, 1, Tadeu Lopes de Cardoso, (31) 98657-4831, Tad@gmail.com, 30, 354678986-10
+, 2, Juliana  Aparecida Dias, (31) 92348-0134, Juju@gmail.com, 22, 394672873-45
+, 3, Carlos Barbosa de Morais, (31) 99347-8124, Carloslopes@gmail.com, 17, 874563289-30
+, 4, Thais Vitoria Silva, (31) 99967-0855, T@gmail.com, 19, 987645834-50
+, 5, Eduardo Santos de Oliveira, (31) 99744-3724, Dudu@gmail.com, 23, 475893245-11
+, 6, Luciana Alves Rodrigues, (31) 99234-7843, Lulu@gmail.com, 21, 938475632-15
+, 7, Pedro, (31) 996785437, pedro@gmail.com, 19, 123.456.789-00

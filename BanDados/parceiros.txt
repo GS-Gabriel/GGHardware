@@ -1,0 +1,5 @@
+, 1, Amazon Serviços de Varejo do Brasil Ltda,23, 15.436940/0001-03
+, 2, Kabum comércio eletrônico s/a, (19)2114-4412 - faleconosco@Kabum.com.br, 05.570.714/00001-59
+, 3, Pichau informatuca Ltda, (47)3305-5150 - sc@pichau.com.br, 09.376.495/0001-22
+, 4, Mercado livre, 0800-637-7246 - Me@livre.com.br, 03.007.331/0001-41
+, 5, Terabyte atacado e varejo de produtos de informática Ltda, (41) 3086-2957 - terabyte@.com.br, 07.993.973-18

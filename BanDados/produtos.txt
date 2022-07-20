@@ -1,0 +1,36 @@
+, 1, Core i3-10100F,qkhskq, Processador, 459.90, 4, Mercado livre, SND DISTRIBUIÇÃO
+, 2, Athlon 3000G Two Core, AMD, Processador, 399.90, 5, Amazon Serviços de Varejo do Brasil Ltda, Mirão Distribuidora
+, 3, Core i5-11400 11ª Geração, Intel, Processador, 1.279.90, 2, Kabum comércio eletrônico s/a, Mazer Distribuidora Ltda
+, 4, Ryzen 5 5600X, AMD, Processador, 1.459.90, 1, Kabum comércio eletrônico s/a, Mazer Distribuidora Ltda
+, 5, B450M Aorus, Gigabyte, Placa-Mãe, 484.90, 3, Amazon Serviços de Varejo do Brasil Ltda, Mirão Distribuidora
+, 6, B450M Steel Legend, ASRock, Placa-Mãe, 699.90, 6, Kabum comércio eletrônico s/a, Mazer Distribuidora Ltda
+, 7, Prime H510M-E, Asus, Placa-Mãe, 639.90, 6, Amazon Serviços de Varejo do Brasil Ltda, Mirão Distribuidora
+, 8, TUF H310M-Plus Gaming/BR, Asus, Placa-Mãe, 439.90, 2, Mercado livre, SND DISTRIBUIÇÃO
+, 9, B560M AORUS ELITE, Aorus, Placa-Mãe, 899.90, 4, Pichau informática Ltda, Mirão Distribuidora
+, 10, BarraCuda 1TB, Seagate, HD, 285.90, 8, Mercado livre, SND DISTRIBUIÇÃO
+, 11, A400 480GB, Kingston, SSD, 349.90, 9, Amazon Serviços de Varejo do Brasil Ltda, Mirão Distribuidora
+, 12, S41 TUF 512GB, XPG, SSD, 429.90, 3, Kabum comércio eletrônico s/a, Mazer Distribuidora Ltda
+, 13, Gigabyte 256GB, Gigabyte, SSD, 219.90, 10, Pichau informática Ltda, Mirão Distribuidora
+, 14, NVIDIA GeForce RTX 2060 D6 6G, Gigabyte, Placa de Vídeo, 3199.90, 2, Kabum comércio eletrônico s/a, Mazer Distribuidora Ltda
+, 15, NVIDIA GeForce RTX 3060 Ti Twin Edge LHR, Zotac, Placa de Vídeo, 4299.90, 1, Pichau informática Ltda, Mirão Distribuidora
+, 16, TUF Gaming NVIDIA Geforce GTX 1660 Ti O6G EVO OC, ASUS, Placa de Vídeo, 2799.90, 3, Mercado livre, SND DISTRIBUIÇÃO
+, 17, Phoenix NVIDIA GeForce GTX 1650 OC, ASUS, Placa de Vídeo, 2099.90, 6, Pichau informática Ltda, Mirão Distribuidora
+, 18, PWS2003, Fortrek, Fonte, 65.90, 16, Mercado livre, SND DISTRIBUIÇÃO
+, 19, CV450 80 Plus Bronze, Corsair, Fonte, 299.90, 8, Amazon Serviços de Varejo do Brasil Ltda, Mirão Distribuidora
+, 20, Gaming 4GB, Husky, Memórias RAM, 139.90, 4, Amazon Serviços de Varejo do Brasil Ltda, Mirão Distribuidora
+, 21, Ballistix 8GB, Crucial, Memórias RAM, 240.90, 2, Kabum comércio eletrônico s/a, Mazer Distribuidora Ltda
+, 22, Vengeance RGB Pro 8GB, Corsair, Memórias RAM, 349.90, 1, Pichau informática Ltda, Mirão Distribuidora
+, 23, 19 HD LED, Brazil PC, Monitor, 559.90, 5, Kabum comércio eletrônico s/a, Mazer Distribuidora Ltda
+, 24, 23.8 Full HD, LG, Monitor, 999.90, 2, Mercado livre, SND DISTRIBUIÇÃO
+, 25, Pure Steel, Sharkoon, Gabinete, 399.90, 4, Pichau informática Ltda, Mirão Distribuidora
+, 26, ATX Trinity Mini V1, Aerocool, Gabinete, 299.90, 7, Mercado livre, SND DISTRIBUIÇÃO
+, 27, M90, Logitech, Mouse, 38.90, 17, Amazon Serviços de Varejo do Brasil Ltda, Mirão Distribuidora
+, 28, Cobra Chroma RGB, Redragon, Mouse, 129.90, 3, Amazon Serviços de Varejo do Brasil Ltda, Mirão Distribuidora
+, 29, G203 LIGHTSYNC RGB, Logitech, Mouse, 139.90,5,Terabyte atacado e varejo de produtos de informática Ltda, Mazer Distribuidora Ltda
+, 30, Gaming Avalanche, Husky, Headset, 119.90, 4, Terabyte atacado e varejo de produtos de informática Ltda, Mazer Distribuidora Ltda
+, 31, Cloud Core, HyperX, Headset, 399.90, 1, Pichau informática Ltda, Mirão Distribuidora
+, 32, Slim Laser, Multilaser, Teclado, 27.90, 13, Mercado livre, SND DISTRIBUIÇÃO
+, 33, Mecânico Gamer Bora RGB, T-Dagger, Teclado, 189.90, 4, Terabyte atacado e varejo de produtos de informática Ltda, Mazer Distribuidora Ltda
+, 34, Mecânico Gamer Kumara, Redragon, Teclado, 249.90, 3, Pichau informática Ltda, Mirão Distribuidora
+, 35, efef, eded, edede, edede, edede, dede, dede
+, 36, , 6, 6, eded, dede, d, ded
